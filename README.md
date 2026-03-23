@@ -2,7 +2,7 @@
 
 **`Desenvolvedora`**
 
-Me chamo Thayná Verçosa de Andrade, tenho 19 anos e sou natural de Recife. Concluí o ensino médio na ETE Cícero Dias, com o curso técnico em Multimídia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na CESAR school. Sou apaixonada por tecnologia.
+Me chamo Thayná Verçosa de Andrade, tenho 20 anos e sou natural de Recife. Concluí o ensino médio na ETE Cícero Dias, com o curso técnico em Multimídia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na CESAR school. Sou apaixonada por tecnologia.
 
 ### 🤖 Linguagens e Tecnologias
 
